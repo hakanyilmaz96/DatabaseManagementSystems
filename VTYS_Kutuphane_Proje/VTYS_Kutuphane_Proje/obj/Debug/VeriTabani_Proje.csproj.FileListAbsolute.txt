@@ -1,0 +1,246 @@
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe.config
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.pdb
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.dll
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.pdb
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.xml
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csprojAssemblyReference.cache
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Properties.Resources.resources
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.GenerateResource.cache
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CopyComplete
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.exe
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.pdb
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.GirisYap.resources
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Admin.resources
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Musteri.resources
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Sepet.resources
+C:\Users\Elimirze\Desktop\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.AyrintiliBilgi.resources
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe.config
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.pdb
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.dll
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.pdb
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.xml
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csprojAssemblyReference.cache
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.AyrintiliBilgi.resources
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Musteri.resources
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Admin.resources
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Sepet.resources
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.GirisYap.resources
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Properties.Resources.resources
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.GenerateResource.cache
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CopyComplete
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.exe
+C:\Users\Elimirze\Desktop\B181210390\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.pdb
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe.config
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.pdb
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.dll
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.pdb
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.xml
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csprojAssemblyReference.cache
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.AyrintiliBilgi.resources
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Musteri.resources
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Admin.resources
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Sepet.resources
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.GirisYap.resources
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Properties.Resources.resources
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Yorum.resources
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.GenerateResource.cache
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CopyComplete
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.exe
+D:\Elimirze\3. Sınıf 1. Dönem\VeriTabanı Yönetim Sistemleri\Ödev\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.pdb
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe.config
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.pdb
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.dll
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.pdb
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.xml
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csprojAssemblyReference.cache
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.AyrintiliBilgi.resources
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Musteri.resources
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Admin.resources
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Sepet.resources
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.GirisYap.resources
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Properties.Resources.resources
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Yorum.resources
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.GenerateResource.cache
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CopyComplete
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.exe
+C:\Users\aldin\OneDrive\Masaüstü\eklenecekler\Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.pdb
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe.config
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.pdb
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.dll
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.pdb
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.xml
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.AssemblyReference.cache
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.AyrintiliBilgi.resources
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Musteri.resources
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Admin.resources
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Sepet.resources
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.GirisYap.resources
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Properties.Resources.resources
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Yorum.resources
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.GenerateResource.cache
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CoreCompileInputs.cache
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CopyComplete
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.exe
+C:\Users\hknyl\Desktop\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.pdb
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe.config
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.pdb
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.dll
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.pdb
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.xml
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.AssemblyReference.cache
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Admin.resources
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Properties.Resources.resources
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.GenerateResource.cache
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CoreCompileInputs.cache
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CopyComplete
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.exe
+C:\Users\hknyl\Desktop\vtys ödev örnek\VeriTabaniYonetimSistemleri-master\Veritabanı Yönetim Sistemleri\VTYS_Proje\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.pdb
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe.config
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.exe
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\VeriTabani_Proje.pdb
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.dll
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.pdb
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\Npgsql.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Buffers.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Memory.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Text.Json.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\bin\Debug\System.ValueTuple.xml
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.AssemblyReference.cache
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Admin.resources
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.Properties.Resources.resources
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.GenerateResource.cache
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CoreCompileInputs.cache
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.csproj.CopyComplete
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.exe
+C:\Users\hknyl\Desktop\Veritabanı kütüphane ödev hakan\VeriTabani_Proje\VeriTabani_Proje\obj\Debug\VeriTabani_Proje.pdb
